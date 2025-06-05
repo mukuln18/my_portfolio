@@ -40,7 +40,7 @@ function MainContent({ openModal, setOpenModal }) {
 
   return (
     <>
-      {location.pathname !== '/messages'}
+      {/* {location.pathname !== '/messages'} */}
       <Body>
         <Routes>
           <Route
@@ -58,10 +58,10 @@ function MainContent({ openModal, setOpenModal }) {
                   <Contact />
                 </Wrapper>
                 <Footer />
-              </>
+              </>   
             }
           />
-          <Route path="/messages" element={<MessagesTable />} />
+          {/* <Route path="/messages" element={<MessagesTable />} /> */}
         </Routes>
       </Body>
     </>

@@ -244,7 +244,7 @@ const Navbar = () => {
               color: "white",
               width: "max-content",
             }}
-            href="https://github.com/your-github-profile"
+            href="https://github.com/mukuln18"
             target="_blank"
             rel="noopener noreferrer"
           >

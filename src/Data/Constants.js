@@ -7,7 +7,7 @@ export const Bio = {
     description:
       "I am a second year B.Tech(CSE) student focusing on FullStack Development. I love technology, problem-solving, and learning new things. I enjoy customizing development setups and trying out different tools. Besides studying, I am really into gaming, coding, and hitting the gym. I am excited to use my skills on interesting projects and keep learning along the way.",
     github: "https://github.com/mukuln18",
-    resume: "/MukulNarang_Resume.pdf", //#toolbar=0(to remove the toolbar in iframe)
+    resume: "/MukulNarang_CV.pdf", //#toolbar=0(to remove the toolbar in iframe)
     linkedin: "https://www.linkedin.com/in/mukuln18",
   };
   
@@ -119,16 +119,7 @@ export const projects = [
     image: "/ars.png",
     tags: ["Java"],
      githubUrl: "https://github.com/mukuln18/Airline_Reservation_System",
-  },
-  {
-    id: 2,
-    category: "inventory",
-    title: "Inventory Management System",
-    date: "19-04-2024",
-    description: "This project was developed using Spring Boot, Spring, Hibernate, and AOP.",
-    image: "" ,
-    tags: ["Spring Boot", "Spring", "Hibernate", "AOP"],
-  },
+  }
   // Other projects...
 ];
 

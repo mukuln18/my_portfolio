@@ -131,7 +131,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               Airline Reservation System
             </StyledToggleButton>
           )}
-          <StyledDivider orientation="vertical" flexItem />
+          {/* <StyledDivider orientation="vertical" flexItem />
           {toggle === "inventory" ? (
             <StyledToggleButton
               active
@@ -147,7 +147,7 @@ const Projects = ({ openModal, setOpenModal }) => {
             >
               Inventory Management System
             </StyledToggleButton>
-          )}
+          )} */}
           <StyledDivider />
         </ToggleGroup>
         <CardContainer>
