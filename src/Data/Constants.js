@@ -5,7 +5,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a B.Tech(CSE) student focusing on FullStack Development. I love technology, problem-solving, and learning new things. I enjoy customizing development setups and trying out different tools. Besides studying, I am really into gaming, coding, and hitting the gym. I am excited to use my skills on interesting projects and keep learning along the way.",
+      "B.Tech Computer Science student specializing in Full Stack Development. Focused on building efficient and scalable software solutions with hands-on experience in web development technologies. Actively seeking opportunities to apply my technical skills and academic background in real-world projects.",
     github: "https://github.com/mukuln18",
     resume: "/MukulNarang_CV.pdf", //#toolbar=0(to remove the toolbar in iframe)
     linkedin: "https://www.linkedin.com/in/mukuln18",
