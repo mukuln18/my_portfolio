@@ -7,7 +7,7 @@ export const Bio = {
     description:
       "B.Tech Computer Science student specializing in Full Stack Development. Focused on building efficient and scalable software solutions with hands-on experience in web development technologies. Actively seeking opportunities to apply my technical skills and academic background in real-world projects.",
     github: "https://github.com/mukuln18",
-    resume: "/MukulNarang_CV.pdf", //#toolbar=0(to remove the toolbar in iframe)
+    resume: "/Mukul_CV.pdf", //#toolbar=0(to remove the toolbar in iframe)
     linkedin: "https://www.linkedin.com/in/mukuln18",
   };
   
