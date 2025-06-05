@@ -138,7 +138,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFMgqf0B071-HozxaTGvWYOTm0JkQyngqVAFu1uq1uuesdm8itRINk2xi8H1xUJ0TrR0&usqp=CAU",
     school: "Summer Fields School, Gurgaon",
     date: "2020 - 2022",
-    grade: "86.5% (Aggregate)",
+    grade: "85.3% (Aggregate)",
     desc: "I completed my class 12 education at Summer Fields School, Gurgaon, where I studied Science with a focus on academic subjects like Physics, Chemistry, and Mathematics. During this time, I developed a strong foundation in these subjects and gained valuable knowledge.",
     degree: "CBSE(XII), Science",
   },
