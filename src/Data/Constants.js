@@ -5,7 +5,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a second year B.Tech(CSE) student focusing on FullStack Development. I love technology, problem-solving, and learning new things. I enjoy customizing development setups and trying out different tools. Besides studying, I am really into gaming, coding, and hitting the gym. I am excited to use my skills on interesting projects and keep learning along the way.",
+      "I am a B.Tech(CSE) student focusing on FullStack Development. I love technology, problem-solving, and learning new things. I enjoy customizing development setups and trying out different tools. Besides studying, I am really into gaming, coding, and hitting the gym. I am excited to use my skills on interesting projects and keep learning along the way.",
     github: "https://github.com/mukuln18",
     resume: "/MukulNarang_CV.pdf", //#toolbar=0(to remove the toolbar in iframe)
     linkedin: "https://www.linkedin.com/in/mukuln18",
@@ -73,11 +73,11 @@ export const Bio = {
           image:
             "https://image.pngaaa.com/546/2459546-middle.png",
         },
-        {
-          name: "Hibernate",
-          image:
-            "https://e7.pngegg.com/pngimages/154/543/png-clipart-brown-and-gray-geometric-illustration-hibernate-logo-icons-logos-emojis-tech-companies.png",
-        },
+        // {
+        //   name: "Hibernate",
+        //   image:
+        //     "https://e7.pngegg.com/pngimages/154/543/png-clipart-brown-and-gray-geometric-illustration-hibernate-logo-icons-logos-emojis-tech-companies.png",
+        // },
       ],
     },
     {
